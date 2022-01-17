@@ -1,0 +1,506 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,100&display=swap');
+
+
+
+
+
+#titre{
+	text-align: center;
+	background-color :none;
+	color : orange ;
+	width: 100%;
+	margin-left: -1%;
+	font-size: 100px;
+	font-style: bolder;
+
+	
+}
+
+body{
+	margin:0 px;
+}
+
+#header{
+	height: 120 px;
+	background: black;
+	opacity: 0.7;
+	
+}
+
+#dball{
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+  width: 130px;
+  position: absolute;
+}
+
+.tirage{
+	text-align: center;
+}
+
+#paragraphe{
+	text-align: center;
+	color: white;
+	font-weight: 800;
+	font-size: 25px;
+	border-width: 1 px;
+	border-color: black;
+	border-style: solid;
+	width: 70%;
+	margin-left: 15%;
+	text-shadow: #000000 1px 0 10px;
+	
+	
+}
+
+#MENU1 {
+	background-image: url("https://images.wallpapersden.com/image/download/kame-house-dragon-ball-z_a2llbmaUmZqaraWkpJRoZWhnrWZsZWs.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+
+#PAGE11 {
+	background-image: url("https://images2.alphacoders.com/564/thumb-1920-564835.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+
+#PAGE22 {
+	background-image: url("https://cdn.wallpapersafari.com/78/67/gKU5k6.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+} 
+
+#PAGE33 {
+	background-image: url("https://images8.alphacoders.com/716/thumb-1920-716202.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+
+#PAGE44 {
+	background-image: url("https://images.hdqwalls.com/download/goku-in-dragon-ball-super-minimalism-8u-1920x1080.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+
+#PAGE55 {
+	background-image: url("https://wallpaperaccess.com/full/2877872.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+
+@font-face {
+    font-family: 'saiyan_sansregular';
+    src: url('font/saiyan-sans-webfont.woff2') format('woff2'),
+         url('font/saiyan-sans-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+#Liste1{
+	text-align: left;
+	background-color :#000000;
+	color : white;
+	margin-left: 35%;
+	width: 30%;
+	font-weight: bold;
+	font-size: 160%;
+	font-family: '28_days_laterregular';
+}
+
+@font-face2 {
+    font-family: '28_days_laterregular';
+    src: url('font2/28_days_later-webfont.woff2') format('woff2'),
+         url('font2/28_days_later-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+#classestitre{
+	text-align: center;
+	background-color :#000000;
+	color : red;
+	font-family: 'saiyan_sansregular';
+	width: 20%;
+	margin-left: 70%
+	font-size: 200%;
+}
+
+a{
+	text-decoration: none;
+}
+
+
+
+
+#MENU{
+	padding: 10px 25px;
+	color: black;
+	border: 2px solid #222;
+	background-color: orange;
+	margin: 1%;
+	margin-left: 20%;
+	font-weight: bolder;
+	transition: .4s linear;
+
+}
+
+#MENU:hover{
+	color: orange;
+	background-color:black;
+
+}
+
+
+
+
+#Classes{
+	padding: 10px 25px;
+	color: black;
+	border: 2px solid #222;
+	background-color: orange;
+	margin: 1%;
+	font-weight: bolder;
+	transition: .4s linear;
+
+}
+#Classes:hover{
+	color: orange;
+	background-color:black;
+}
+
+
+
+#Categ{
+	padding: 10px 25px;
+	color: black;
+	border: 2px solid #222;
+	background-color: orange;
+	margin: 1%;
+	font-weight: bolder;
+	transition: .4s linear;
+}
+#Categ:hover{
+	color: orange;
+	background-color:black;
+}
+
+
+
+#PORTAIL{
+	padding: 10px 25px;
+	color: black;
+	border: 2px solid #222;
+	background-color: orange;
+	margin: 1%;
+	font-weight: bolder;
+	transition: .4s linear;
+}
+#PORTAIL:hover{
+	color: orange;
+	background-color:black;
+}
+
+
+
+
+#Personnages{
+	padding: 10px 25px;
+	color: black;
+	border: 2px solid #222;
+	background-color: orange;
+	margin: 1%;
+	font-weight: bolder;
+	transition: .4s linear;
+}
+#Personnages:hover{
+	color: orange;
+	background-color:black;
+}
+
+
+
+#PAGE5{
+	padding: 10px 25px;
+	color: black;
+	border: 2px solid #222;
+	background-color: orange;
+	margin: 1%;
+	font-weight: bolder;
+	transition: .4s linear;
+}
+#PAGE5:hover{
+	color: orange;
+	background-color:black;
+}
+
+
+
+li{
+	display: inline;
+}
+
+#basdepage{
+	color: black;
+	font-weight: bolder;
+	font-size: 25px;
+}
+
+#Image{
+	display: flex;
+	animation-duration: 25s;
+	animation-name: MENUIMAGES;
+	animation-iteration-count: infinite;
+	
+}
+
+#Cadre{
+	width: 1024px;
+	overflow: auto;
+	border: 2px solid #333;
+	margin-left: 23%;
+	
+}
+
+@keyframes MENUIMAGES {
+	0% {
+		transform: translateX(0);
+	}
+	20% {
+		transform: translateX(-1024px);
+	}
+	40% {
+		transform: translateX(-2048px);
+	}
+	60% {
+		transform: translateX(-3072px);
+	}
+	80% {
+		transform: translateX(-4096px);
+	}
+	
+	100% {
+		transform: translateX(0);
+	}
+	
+}
+
+#supportP1 {
+	width: 1024px;
+	overflow: auto;
+	border: 2px solid #333;
+	margin-left: 22%;
+	background-color: black;
+	opacity: 0.7;
+	height: auto;
+}
+
+#txt1P1 {
+	color: white;
+	font-size: 120%;
+}
+
+#TitreP1 {
+	color: white;
+	font-weight: bolder;
+}
+
+.bloc{
+	position: relative;
+	height: 100vh;
+	width: 100%;
+}
+
+.bloc video{
+	position: absolute;
+	position: fixed;
+	min-width: 100%;
+	min-height: 100%;
+	top: 50%;
+	left: 50%;
+	z-index: -100;
+	transform: translate(-50%,-50%);
+	
+}
+
+#supportP2 {
+	width: 1024px;
+	overflow: auto;
+	border: 2px solid #333;
+	margin-left: 20%;
+	background-color: black;
+	opacity: 0.85;
+	height: auto;
+	
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1366px) {
+	
+	#Cadre{
+	width: 1024px;
+	overflow: auto;
+	border: 2px solid #333;
+	margin-left: 12%;
+	}
+	
+	#MENU{
+	padding: 10px 25px;
+	color: black;
+	border: 2px solid #222;
+	background-color: orange;
+	margin: 1%;
+	margin-left: 9%;
+	font-weight: bolder;
+	}
+
+	#Classes{
+	padding: 10px 25px;
+	color: black;
+	border: 2px solid #222;
+	background-color: orange;
+	margin: 1%;
+	font-weight: bolder;
+	}
+
+	#Categ{
+	padding: 10px 25px;
+	color: black;
+	border: 2px solid #222;
+	background-color: orange;
+	margin: 1%;
+	font-weight: bolder;
+	}
+
+	#PORTAIL{
+	padding: 10px 25px;
+	color: black;
+	border: 2px solid #222;
+	background-color: orange;
+	margin: 1%;
+	font-weight: bolder;
+	}
+
+	#Personnages{
+	padding: 10px 25px;
+	color: black;
+	border: 2px solid #222;
+	background-color: orange;
+	margin: 1%;
+	font-weight: bolder;
+	}
+
+	#PAGE5{
+	padding: 10px 25px;
+	color: black;
+	border: 2px solid #222;
+	background-color: orange;
+	margin: 1%;
+	font-weight: bolder;
+	}
+	#supportP1 {
+	width: 750px;
+	overflow: auto;
+	border: 2px solid #333;
+	margin-left: 20%;
+	background-color: black;
+	opacity: 0.7;
+	height: auto;
+	
+	}
+
+	.bloc{
+	position: relative;
+	height: 100vh;
+	width: 100%;
+	}
+
+	.bloc video{
+	position: absolute;
+	position: fixed;
+	min-width: 100%;
+	min-height: 100%;
+	top: 50%;
+	left: 50%;
+	z-index: -40;
+	transform: translate(-50%,-50%);
+	
+	}
+	#supportP2 {
+	width: 750px;
+	overflow: auto;
+	border: 2px solid #333;
+	margin-left: 20%;
+	background-color: black;
+	opacity: 0.85;
+	height: auto;
+	
+	}
+	
+	
+}
+

@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf8" />
+        <title>DRAGONBALL YEAR</title>
+		<meta name = "viewport" content = "width=device-width, initial-scale=1.0">
+        <!-- La ligne suivante demande au navigateur de télécharger une feuille de style au format CSS nommée mon_style.css -->
+        <link rel="stylesheet" type="text/css" href="Style.css" />
+    </head>
+    <body id = "PAGE22">
+		<div  class="bloc">
+
+			<video autoplay="autoplay" muted="" loop="infinite" src="Migate2.mp4"></video>
+			
+			
+			<div id= "header">
+			<!-- Écrivez le contenu de votre page au format HTML ici -->
+			<img src  = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Dragonball_%284-Star%29.svg/350px-Dragonball_%284-Star%29.svg.png" id = "dball"></img>
+			
+			<h1 onclick="valider()"id = "titre">TECHNIQUES<h1>
+			</div>
+			<p id="paragraphe" >Analyse des différentes techniques utilisés dans Dragonball.</p>
+			
+			<nav>
+				<ul>
+					<li><a id= "MENU" href = "index.html">MENU</a></li>
+					<li><a id= "Classes" href = "page1.html">HISTOIRE</a></li>                      <!--boutons menant aux differentes pages du site lien de la video: https://www.youtube.com/watch?v=-VSwmBtcgcI&ab_channel=H2Prog -->
+					<li><a id= "Categ" href = "page2.html">TECHNIQUES</a></li>
+					<li><a id= "PORTAIL" href = "page3.html">EPISODES</a></li>
+					<li><a id= "Personnages" href = "page4.html">PERSONNAGES</a></li>
+					<li><a id= "PAGE5" href = "page5.html">DOKKAN ET DBL</a></li>
+				</ul>
+			</nav>
+			 
+			
+			<!-- Voici comment ajouter une image : -->
+			<!-- width est la largeur, height est la hauteur -->
+			<!-- Mettre que height ou que width permet de garder les proportions de l'image -->
+			
+
+			<!-- Voici comment faire un lien : -->
+		
+			
+
+			
+			<!-- La ligne suivante exécute le javascript du fichier script.js -->
+			<script src="hscript.js"></script>
+			
+			<br>
+			<br>
+			
+			
+			<div id = "supportP2">
+				<p id = "txt1P1">
+					Dragonball est tout aussi reputée pour son histoire que ses merveilleuses techniques regnant dans le monde du combat, qu'elles soient composés de ki ou de poings pur, de nombreuses techniquent restent surprenantes et puissantes.
+				</p>
+				<br>
+				<br>
+				<br>
+				<h1 id = "TitreP1">
+					1.LE KAMEHAMEHA
+				</h1>
+				<br>
+				<img src = "https://c.tenor.com/jDxcgLJt0MQAAAAC/vegito-final.gif" id = "imageP1"></img>
+				<br>
+				<p id= "txt1P1">
+					
+				</p>
+				<br>
+				<br>
+				<br>
+				<h1 id = "TitreP1">
+					2.FINAL FLASH
+				</h1>
+				<br>
+				<img src = "https://c.tenor.com/wv_oARGC7OIAAAAd/vegeta-final-flash.gif" id = "imageP1"></img>
+				<br>
+				<p id= "txt1P1">
+					
+				</p>
+				<br>
+				<br>
+				<br>
+				<h1 id = "TitreP1">
+					3.CANON GARIC
+				</h1>
+				<br>
+				<img src = "https://static.wikia.nocookie.net/dragonball/images/6/6d/GarricGun.gif/revision/latest?cb=20150628210746&path-prefix=fr" width = 700px ></img>
+				<br>
+				<p id= "txt1P1">
+					
+				</p>
+				<br>
+				<br>
+				<br>
+				<h1 id = "TitreP1">
+					4. LE SUPER GENKIDAMA
+				</h1>
+				<br>
+				<img src = "https://thumbs.gfycat.com/DefinitiveFrankFlea-size_restricted.gif" width = 700px></img>
+				<br>
+				<p id= "txt1P1">
+					4. LE SUPER GENKIDAMA
+				</p>
+				
+				</h1>
+				<br>
+				<img src = "https://mocah.org/uploads/posts/4503540-dragon-ball-son-goku-dragon-ball-super.jpg" width = 700px></img>
+				<br>
+				<p id= "txt1P1">
+					4. LE SUPER GENKIDAMA
+				</p>
+				
+				</h1>
+				<br>
+				<img src = "https://mocah.org/uploads/posts/4503540-dragon-ball-son-goku-dragon-ball-super.jpg" width = 700px></img>
+				<br>
+				<p id= "txt1P1">
+					4. LE SUPER GENKIDAMA
+				</p>
+				
+				</h1>
+				<br>
+				<img src = "https://mocah.org/uploads/posts/4503540-dragon-ball-son-goku-dragon-ball-super.jpg" width = 700px></img>
+				<br>
+				<p id= "txt1P1">
+					4. LE SUPER GENKIDAMA
+				</p>
+				
+				</h1>
+				<br>
+				<img src = "https://mocah.org/uploads/posts/4503540-dragon-ball-son-goku-dragon-ball-super.jpg" width = 700px></img>
+				<br>
+				<p id= "txt1P1">
+					4. LE SUPER GENKIDAMA
+				</p>
+				
+				</h1>
+				<br>
+				<img src = "https://mocah.org/uploads/posts/4503540-dragon-ball-son-goku-dragon-ball-super.jpg" width = 700px></img>
+				<br>
+				<p id= "txt1P1">
+					4. LE SUPER GENKIDAMA
+				</p>
+				
+				</h1>
+				<br>
+				<img src = "https://mocah.org/uploads/posts/4503540-dragon-ball-son-goku-dragon-ball-super.jpg" width = 700px></img>
+				<br>
+				<p id= "txt1P1">
+					4. LE SUPER GENKIDAMA
+				</p>
+				
+				<br>
+				
+				<footer>
+					<p id= "basdepage"> "➡ Ce site a été developpé et designé par Mounji Nassime et Leghzal Enzo.</p>
+				</footer>
+				
+				
+			<div>
+			
+			
+			
+			
+			
+			
+			
+			
+		</div>
+	
+	</body>
+</html>

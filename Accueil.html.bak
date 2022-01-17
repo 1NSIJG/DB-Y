@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf8" />
+        <title>DRAGONBALL YEAR</title>
+		<meta name = "viewport" content = "width=device-width, initial-scale=1.0">
+        <!-- La ligne suivante demande au navigateur de télécharger une feuille de style au format CSS nommée mon_style.css -->
+        <link rel="stylesheet" type="text/css" href="Style.css" 
+		<script src = "hscript.js"> </script>
+    </head>
+    <body id = "ACCUEIL">
+	
+		<div  class="bloc">
+			
+			<video autoplay="autoplay" muted="" loop="infinite" src="Migate3.mp4"></video>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<form action = "traitement.php" method="POST" id="myForm">
+				<label for="username">Votre nom d'utilisateur</label>
+				<input type="text" name="username" id="username">
+				<button type="submit">S'enregistrer</button>
+			</form>
+			
+			<script>
+				let myForm = document.getElementById('Form');
+				
+				myForm.addEventListener('submit', function(e) {
+					
+				});
+			</script>
+			
+			<!-- La ligne suivante exécute le javascript du fichier script.js -->
+			<script src="hscript.js"></script>
+			
+		</div>
+		
+	</body>
+</html>
